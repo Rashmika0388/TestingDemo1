@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
+// edit the file
 namespace ORMFrameWork.Models
 {
     [Table("emp10")]
